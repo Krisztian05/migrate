@@ -7,4 +7,5 @@ notepad .\parancsok.txt
 C:
 cd "C:\Program Files\Oracle\VirtualBox"
 VBoxManage.exe import C:\Users\horvath.krisztian2\Documents\12AB.ova
+start VirtualBox.exe
 exit
