@@ -6,5 +6,5 @@ notepad .\12ABSZ3_settings.txt
 notepad .\parancsok.txt
 C:
 cd "C:\Program Files\Oracle\VirtualBox"
-vboxmanage import C:\Users\horvath.krisztian2\Documents\12AB.ova
+VBoxManage.exe import C:\Users\horvath.krisztian2\Documents\12AB.ova
 exit
